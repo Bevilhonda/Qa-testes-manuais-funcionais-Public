@@ -1,11 +1,8 @@
-## 📂 O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
+##  A Prática de Testes Manuais Funcionais
 
-![Logo WEX - End to End Engineering](https://assets.dio.me/UYzF8-h9nevqvEIjQeMLhBv4mmH2lP7a5vLrJwEL9xs/f:webp/h:120/q:80/L3RyYWNrcy9lNTVhMTAwNy04NTc5LTQ1ODEtODJiZC1iZDI1OTJjNzI2ZGEucG5n)
+### Sobre o Projeto
 
-
-### 📃 Sobre o Projeto
-
-Este projeto consiste na solução de um desafio proposto no Bootcamp **WEX - End to End Engineering** realizado pela plataforma **DIO** com objetivo de revisar conceitos úteis para testes manuais no mundo ágil, bem como compreender e praticar atividades relativas ao dia a dia de um QA, com foco em testes manuais funcionais.
+Este projeto consiste na solução de um desafio proposto no Bootcamp **PcD Tech Bradesco - Java & QA Developer** realizado pela plataforma **DIO** com objetivo de revisar conceitos úteis para testes manuais no mundo ágil, bem como compreender e praticar atividades relativas ao dia a dia de um QA, com foco em testes manuais funcionais.
 
 ### ⚙️ Pré-requisitos
 
